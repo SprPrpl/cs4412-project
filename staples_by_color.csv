@@ -1,0 +1,352 @@
+card,support,color_identity
+Evolving Wilds,0.16942148760330578,5-Color (WUBRG)
+Naturalize,0.16115702479338842,5-Color (WUBRG)
+Negate,0.15289256198347106,5-Color (WUBRG)
+Mind Rot,0.14049586776859505,5-Color (WUBRG)
+Duress,0.128099173553719,5-Color (WUBRG)
+Cancel,0.128099173553719,5-Color (WUBRG)
+Pacifism,0.12396694214876033,5-Color (WUBRG)
+Plummet,0.11570247933884298,5-Color (WUBRG)
+Demolish,0.11570247933884298,5-Color (WUBRG)
+Serra Angel,0.11570247933884298,5-Color (WUBRG)
+Shock,0.11570247933884298,5-Color (WUBRG)
+Gravedigger,0.1115702479338843,5-Color (WUBRG)
+Giant Growth,0.10743801652892562,5-Color (WUBRG)
+Unsummon,0.10743801652892562,5-Color (WUBRG)
+Disenchant,0.2054794520547945,Azorius (WU)
+Counterspell,0.1506849315068493,Azorius (WU)
+Pacifism,0.1506849315068493,Azorius (WU)
+Tranquil Cove,0.1232876712328767,Azorius (WU)
+Meandering River,0.1095890410958904,Azorius (WU)
+Negate,0.1095890410958904,Azorius (WU)
+Wrath of God,0.1095890410958904,Azorius (WU)
+Dark Ritual,0.2328767123287671,Mono-Black
+Gravedigger,0.2191780821917808,Mono-Black
+Mind Rot,0.1917808219178082,Mono-Black
+Unholy Strength,0.1506849315068493,Mono-Black
+Sengir Vampire,0.1506849315068493,Mono-Black
+Murder,0.1506849315068493,Mono-Black
+Ravenous Rats,0.136986301369863,Mono-Black
+Drudge Skeletons,0.136986301369863,Mono-Black
+Dark Banishing,0.136986301369863,Mono-Black
+Consume Spirit,0.1232876712328767,Mono-Black
+Walking Corpse,0.1232876712328767,Mono-Black
+Terror,0.1232876712328767,Mono-Black
+Corrupt,0.1095890410958904,Mono-Black
+Drain Life,0.1095890410958904,Mono-Black
+Gravewaker,0.1095890410958904,Mono-Black
+Rise from the Grave,0.1095890410958904,Mono-Black
+Nightmare,0.1095890410958904,Mono-Black
+Polluted Mire,0.1095890410958904,Mono-Black
+Rampant Growth,0.17142857142857143,Gruul (RG)
+Llanowar Elves,0.15714285714285714,Gruul (RG)
+Fireball,0.11428571428571428,Gruul (RG)
+Gruul Turf,0.11428571428571428,Gruul (RG)
+Terramorphic Expanse,0.11428571428571428,Gruul (RG)
+Giant Growth,0.1,Gruul (RG)
+Gruul Guildgate,0.1,Gruul (RG)
+Rugged Highlands,0.1,Gruul (RG)
+Shock,0.391304347826087,Mono-Red
+Shivan Dragon,0.2463768115942029,Mono-Red
+Act of Treason,0.15942028985507245,Mono-Red
+Incinerate,0.14492753623188406,Mono-Red
+Fireball,0.13043478260869565,Mono-Red
+Lightning Bolt,0.13043478260869565,Mono-Red
+Chandra's Outrage,0.13043478260869565,Mono-Red
+Blaze,0.13043478260869565,Mono-Red
+Spitting Earth,0.11594202898550725,Mono-Red
+Volcanic Dragon,0.11594202898550725,Mono-Red
+Raging Goblin,0.11594202898550725,Mono-Red
+Cone of Flame,0.10144927536231885,Mono-Red
+Furnace Whelp,0.10144927536231885,Mono-Red
+Fireblast,0.10144927536231885,Mono-Red
+Lightning Strike,0.10144927536231885,Mono-Red
+Lava Axe,0.10144927536231885,Mono-Red
+Pacifism,0.31343283582089554,Mono-White
+Serra Angel,0.31343283582089554,Mono-White
+Mighty Leap,0.16417910447761194,Mono-White
+Disenchant,0.16417910447761194,Mono-White
+Swords to Plowshares,0.14925373134328357,Mono-White
+Inspired Charge,0.13432835820895522,Mono-White
+Venerable Monk,0.11940298507462686,Mono-White
+Serra's Guardian,0.11940298507462686,Mono-White
+Angel of Mercy,0.1044776119402985,Mono-White
+Serra's Embrace,0.1044776119402985,Mono-White
+Dimir Aqueduct,0.14285714285714285,Dimir (UB)
+Dismal Backwater,0.14285714285714285,Dimir (UB)
+Doom Blade,0.12698412698412698,Dimir (UB)
+Counterspell,0.1111111111111111,Dimir (UB)
+Command Tower,0.1111111111111111,Dimir (UB)
+Arcane Signet,0.1111111111111111,Dimir (UB)
+Dimir Signet,0.1111111111111111,Dimir (UB)
+Murder,0.1111111111111111,Dimir (UB)
+Submerged Boneyard,0.1111111111111111,Dimir (UB)
+Tainted Isle,0.1111111111111111,Dimir (UB)
+Temple of Deceit,0.1111111111111111,Dimir (UB)
+Blossoming Sands,0.1774193548387097,Selesnya (GW)
+Pacifism,0.16129032258064516,Selesnya (GW)
+Giant Growth,0.14516129032258066,Selesnya (GW)
+Selesnya Sanctuary,0.12903225806451613,Selesnya (GW)
+Disenchant,0.11290322580645161,Selesnya (GW)
+Evolving Wilds,0.11290322580645161,Selesnya (GW)
+Krosan Verge,0.11290322580645161,Selesnya (GW)
+Graypelt Refuge,0.11290322580645161,Selesnya (GW)
+Terramorphic Expanse,0.11290322580645161,Selesnya (GW)
+Tranquil Expanse,0.11290322580645161,Selesnya (GW)
+Giant Growth,0.3442622950819672,Mono-Green
+Llanowar Elves,0.3114754098360656,Mono-Green
+Giant Spider,0.22950819672131148,Mono-Green
+Rabid Bite,0.19672131147540983,Mono-Green
+Titanic Growth,0.19672131147540983,Mono-Green
+Plummet,0.18032786885245902,Mono-Green
+Overrun,0.14754098360655737,Mono-Green
+Aggressive Mammoth,0.11475409836065574,Mono-Green
+Blanchwood Armor,0.11475409836065574,Mono-Green
+Wood Elves,0.11475409836065574,Mono-Green
+Swiftwater Cliffs,0.1896551724137931,Izzet (UR)
+Izzet Boilerworks,0.15517241379310345,Izzet (UR)
+Goblin Electromancer,0.15517241379310345,Izzet (UR)
+Shock,0.15517241379310345,Izzet (UR)
+Izzet Guildgate,0.13793103448275862,Izzet (UR)
+Izzet Signet,0.13793103448275862,Izzet (UR)
+Lightning Strike,0.1206896551724138,Izzet (UR)
+Temple of Epiphany,0.1206896551724138,Izzet (UR)
+Evolving Wilds,0.10344827586206896,Izzet (UR)
+Command Tower,0.10344827586206896,Izzet (UR)
+Negate,0.10344827586206896,Izzet (UR)
+Shivan Reef,0.10344827586206896,Izzet (UR)
+Opt,0.10344827586206896,Izzet (UR)
+Sol Ring,0.10344827586206896,Izzet (UR)
+Sleep,0.10344827586206896,Izzet (UR)
+Air Elemental,0.3508771929824561,Mono-Blue
+Unsummon,0.3333333333333333,Mono-Blue
+Counterspell,0.24561403508771928,Mono-Blue
+Riddlemaster Sphinx,0.14035087719298245,Mono-Blue
+Divination,0.12280701754385964,Mono-Blue
+Negate,0.12280701754385964,Mono-Blue
+Cancel,0.12280701754385964,Mono-Blue
+Cloudkin Seer,0.12280701754385964,Mono-Blue
+Wind Drake,0.12280701754385964,Mono-Blue
+Thieving Magpie,0.12280701754385964,Mono-Blue
+Mahamoti Djinn,0.10526315789473684,Mono-Blue
+Disperse,0.10526315789473684,Mono-Blue
+Snapping Drake,0.10526315789473684,Mono-Blue
+Phantom Warrior,0.10526315789473684,Mono-Blue
+Warden of Evos Isle,0.10526315789473684,Mono-Blue
+Winged Words,0.10526315789473684,Mono-Blue
+Bloodfell Caves,0.14285714285714285,Rakdos (BR)
+Evolving Wilds,0.125,Rakdos (BR)
+Rakdos Signet,0.125,Rakdos (BR)
+Rakdos Guildgate,0.125,Rakdos (BR)
+Cinder Barrens,0.10714285714285714,Rakdos (BR)
+Command Tower,0.10714285714285714,Rakdos (BR)
+Rakdos Charm,0.10714285714285714,Rakdos (BR)
+Rakdos Carnarium,0.10714285714285714,Rakdos (BR)
+Shock,0.10714285714285714,Rakdos (BR)
+Terminate,0.10714285714285714,Rakdos (BR)
+Jungle Hollow,0.21818181818181817,Golgari (BG)
+Evolving Wilds,0.2,Golgari (BG)
+Golgari Guildgate,0.18181818181818182,Golgari (BG)
+Golgari Rot Farm,0.16363636363636364,Golgari (BG)
+Putrefy,0.16363636363636364,Golgari (BG)
+Tainted Wood,0.14545454545454545,Golgari (BG)
+Giant Growth,0.12727272727272726,Golgari (BG)
+Foul Orchard,0.12727272727272726,Golgari (BG)
+Golgari Signet,0.10909090909090909,Golgari (BG)
+Acidic Slime,0.10909090909090909,Golgari (BG)
+Command Tower,0.10909090909090909,Golgari (BG)
+Grim Backwoods,0.10909090909090909,Golgari (BG)
+Naturalize,0.10909090909090909,Golgari (BG)
+Korozda Guildmage,0.10909090909090909,Golgari (BG)
+Rise from the Grave,0.10909090909090909,Golgari (BG)
+Sol Ring,0.10909090909090909,Golgari (BG)
+Boros Garrison,0.17307692307692307,Boros (RW)
+Boros Guildgate,0.17307692307692307,Boros (RW)
+Wind-Scarred Crag,0.17307692307692307,Boros (RW)
+Stone Quarry,0.15384615384615385,Boros (RW)
+Skyknight Legionnaire,0.1346153846153846,Boros (RW)
+Boros Signet,0.11538461538461539,Boros (RW)
+Command Tower,0.11538461538461539,Boros (RW)
+Sol Ring,0.11538461538461539,Boros (RW)
+Disenchant,0.11538461538461539,Boros (RW)
+"Sunhome, Fortress of the Legion",0.11538461538461539,Boros (RW)
+Terramorphic Expanse,0.11538461538461539,Boros (RW)
+Thornwood Falls,0.2549019607843137,Simic (GU)
+Simic Guildgate,0.19607843137254902,Simic (GU)
+Temple of Mystery,0.19607843137254902,Simic (GU)
+Simic Growth Chamber,0.17647058823529413,Simic (GU)
+Sol Ring,0.1568627450980392,Simic (GU)
+Command Tower,0.1568627450980392,Simic (GU)
+Growth Spiral,0.1568627450980392,Simic (GU)
+Woodland Stream,0.1568627450980392,Simic (GU)
+Beast Within,0.13725490196078433,Simic (GU)
+Arcane Signet,0.11764705882352941,Simic (GU)
+Coiling Oracle,0.11764705882352941,Simic (GU)
+Curse of the Swine,0.11764705882352941,Simic (GU)
+Simic Signet,0.11764705882352941,Simic (GU)
+Urban Evolution,0.11764705882352941,Simic (GU)
+Yavimaya Coast,0.11764705882352941,Simic (GU)
+Tainted Field,0.17391304347826086,Orzhov (WB)
+Orzhov Guildgate,0.15217391304347827,Orzhov (WB)
+Caves of Koilos,0.13043478260869565,Orzhov (WB)
+Orzhov Signet,0.13043478260869565,Orzhov (WB)
+Evolving Wilds,0.13043478260869565,Orzhov (WB)
+Orzhov Basilica,0.13043478260869565,Orzhov (WB)
+Mortify,0.13043478260869565,Orzhov (WB)
+Scoured Barrens,0.13043478260869565,Orzhov (WB)
+Command Tower,0.10869565217391304,Orzhov (WB)
+Sol Ring,0.10869565217391304,Orzhov (WB)
+Temple of Silence,0.10869565217391304,Orzhov (WB)
+Jungle Shrine,0.4838709677419355,Naya (RGW)
+Command Tower,0.3870967741935484,Naya (RGW)
+Sol Ring,0.3870967741935484,Naya (RGW)
+Arcane Signet,0.3225806451612903,Naya (RGW)
+Evolving Wilds,0.3225806451612903,Naya (RGW)
+Exotic Orchard,0.2903225806451613,Naya (RGW)
+Cinder Glade,0.2903225806451613,Naya (RGW)
+Cultivate,0.25806451612903225,Naya (RGW)
+Terramorphic Expanse,0.25806451612903225,Naya (RGW)
+Rampant Growth,0.25806451612903225,Naya (RGW)
+Canopy Vista,0.25806451612903225,Naya (RGW)
+Fortified Village,0.22580645161290322,Naya (RGW)
+Path of Ancestry,0.22580645161290322,Naya (RGW)
+Game Trail,0.22580645161290322,Naya (RGW)
+Path to Exile,0.22580645161290322,Naya (RGW)
+Sungrass Prairie,0.22580645161290322,Naya (RGW)
+Harmonize,0.1935483870967742,Naya (RGW)
+Krosan Verge,0.1935483870967742,Naya (RGW)
+Mossfire Valley,0.1935483870967742,Naya (RGW)
+Behemoth Sledge,0.16129032258064516,Naya (RGW)
+Crumbling Necropolis,0.5185185185185185,Grixis (UBR)
+Terramorphic Expanse,0.37037037037037035,Grixis (UBR)
+Sol Ring,0.3333333333333333,Grixis (UBR)
+Command Tower,0.3333333333333333,Grixis (UBR)
+Commander's Sphere,0.2962962962962963,Grixis (UBR)
+Path of Ancestry,0.2962962962962963,Grixis (UBR)
+Wayfarer's Bauble,0.25925925925925924,Grixis (UBR)
+Exotic Orchard,0.25925925925925924,Grixis (UBR)
+Evolving Wilds,0.25925925925925924,Grixis (UBR)
+Sunken Hollow,0.2222222222222222,Grixis (UBR)
+Foreboding Ruins,0.2222222222222222,Grixis (UBR)
+Blasphemous Act,0.2222222222222222,Grixis (UBR)
+Arcane Signet,0.18518518518518517,Grixis (UBR)
+Chaos Warp,0.18518518518518517,Grixis (UBR)
+Grixis Panorama,0.18518518518518517,Grixis (UBR)
+Feed the Swarm,0.18518518518518517,Grixis (UBR)
+Decree of Pain,0.18518518518518517,Grixis (UBR)
+Obelisk of Grixis,0.18518518518518517,Grixis (UBR)
+Smoldering Marsh,0.18518518518518517,Grixis (UBR)
+Temple of the False God,0.18518518518518517,Grixis (UBR)
+Seaside Citadel,0.5652173913043478,Bant (GWU)
+Command Tower,0.4782608695652174,Bant (GWU)
+Sol Ring,0.43478260869565216,Bant (GWU)
+Skycloud Expanse,0.34782608695652173,Bant (GWU)
+Evolving Wilds,0.34782608695652173,Bant (GWU)
+Arcane Signet,0.34782608695652173,Bant (GWU)
+Temple of Mystery,0.30434782608695654,Bant (GWU)
+Terramorphic Expanse,0.30434782608695654,Bant (GWU)
+Canopy Vista,0.30434782608695654,Bant (GWU)
+Exotic Orchard,0.30434782608695654,Bant (GWU)
+Sungrass Prairie,0.30434782608695654,Bant (GWU)
+Prairie Stream,0.30434782608695654,Bant (GWU)
+Bant Panorama,0.2608695652173913,Bant (GWU)
+Azorius Chancery,0.2608695652173913,Bant (GWU)
+Path of Ancestry,0.2608695652173913,Bant (GWU)
+Selesnya Sanctuary,0.21739130434782608,Bant (GWU)
+Fortified Village,0.21739130434782608,Bant (GWU)
+Port Town,0.21739130434782608,Bant (GWU)
+Temple of Enlightenment,0.21739130434782608,Bant (GWU)
+Swiftfoot Boots,0.21739130434782608,Bant (GWU)
+Arcane Sanctum,0.6363636363636364,Esper (WUB)
+Command Tower,0.5909090909090909,Esper (WUB)
+Sol Ring,0.5454545454545454,Esper (WUB)
+Evolving Wilds,0.5,Esper (WUB)
+Arcane Signet,0.5,Esper (WUB)
+Swords to Plowshares,0.5,Esper (WUB)
+Exotic Orchard,0.4090909090909091,Esper (WUB)
+Prairie Stream,0.4090909090909091,Esper (WUB)
+Terramorphic Expanse,0.4090909090909091,Esper (WUB)
+Sunken Hollow,0.4090909090909091,Esper (WUB)
+Ash Barrens,0.36363636363636365,Esper (WUB)
+Path of Ancestry,0.36363636363636365,Esper (WUB)
+Commander's Sphere,0.36363636363636365,Esper (WUB)
+Choked Estuary,0.3181818181818182,Esper (WUB)
+Port Town,0.3181818181818182,Esper (WUB)
+Utter End,0.2727272727272727,Esper (WUB)
+Skycloud Expanse,0.2727272727272727,Esper (WUB)
+Orzhov Signet,0.2727272727272727,Esper (WUB)
+Darkwater Catacombs,0.2727272727272727,Esper (WUB)
+Temple of Silence,0.2727272727272727,Esper (WUB)
+Savage Lands,0.4090909090909091,Jund (BRG)
+Terramorphic Expanse,0.4090909090909091,Jund (BRG)
+Command Tower,0.36363636363636365,Jund (BRG)
+Evolving Wilds,0.3181818181818182,Jund (BRG)
+Sol Ring,0.3181818181818182,Jund (BRG)
+Arcane Signet,0.2727272727272727,Jund (BRG)
+Cinder Glade,0.22727272727272727,Jund (BRG)
+Jund Panorama,0.22727272727272727,Jund (BRG)
+Myriad Landscape,0.22727272727272727,Jund (BRG)
+Sakura-Tribe Elder,0.22727272727272727,Jund (BRG)
+Riveteers Overlook,0.22727272727272727,Jund (BRG)
+Smoldering Marsh,0.22727272727272727,Jund (BRG)
+Terminate,0.22727272727272727,Jund (BRG)
+Sandsteppe Citadel,0.4,Abzan (BGW)
+Sol Ring,0.35,Abzan (BGW)
+Evolving Wilds,0.3,Abzan (BGW)
+Command Tower,0.3,Abzan (BGW)
+Arcane Signet,0.25,Abzan (BGW)
+Canopy Vista,0.25,Abzan (BGW)
+Exotic Orchard,0.25,Abzan (BGW)
+Scoured Barrens,0.25,Abzan (BGW)
+Command Tower,0.7222222222222222,Jeskai (RWU)
+Mystic Monastery,0.7222222222222222,Jeskai (RWU)
+Sol Ring,0.7222222222222222,Jeskai (RWU)
+Arcane Signet,0.6111111111111112,Jeskai (RWU)
+Prairie Stream,0.5555555555555556,Jeskai (RWU)
+Exotic Orchard,0.5555555555555556,Jeskai (RWU)
+Evolving Wilds,0.5,Jeskai (RWU)
+Swords to Plowshares,0.5,Jeskai (RWU)
+Temple of Enlightenment,0.5,Jeskai (RWU)
+Temple of Epiphany,0.5,Jeskai (RWU)
+Temple of Triumph,0.4444444444444444,Jeskai (RWU)
+Skycloud Expanse,0.4444444444444444,Jeskai (RWU)
+Terramorphic Expanse,0.3888888888888889,Jeskai (RWU)
+Glacial Fortress,0.3333333333333333,Jeskai (RWU)
+Furycalm Snarl,0.3333333333333333,Jeskai (RWU)
+Battlefield Forge,0.3333333333333333,Jeskai (RWU)
+Talisman of Conviction,0.3333333333333333,Jeskai (RWU)
+Talisman of Progress,0.3333333333333333,Jeskai (RWU)
+Shivan Reef,0.3333333333333333,Jeskai (RWU)
+Port Town,0.3333333333333333,Jeskai (RWU)
+Opulent Palace,0.5333333333333333,Sultai (GUB)
+Command Tower,0.4666666666666667,Sultai (GUB)
+Sol Ring,0.4666666666666667,Sultai (GUB)
+Cultivate,0.3333333333333333,Sultai (GUB)
+Dimir Aqueduct,0.3333333333333333,Sultai (GUB)
+Darkwater Catacombs,0.3333333333333333,Sultai (GUB)
+Golgari Rot Farm,0.3333333333333333,Sultai (GUB)
+Exotic Orchard,0.3333333333333333,Sultai (GUB)
+Putrefy,0.3333333333333333,Sultai (GUB)
+Sunken Hollow,0.3333333333333333,Sultai (GUB)
+Temple of the False God,0.3333333333333333,Sultai (GUB)
+Terramorphic Expanse,0.3333333333333333,Sultai (GUB)
+Command Tower,0.7333333333333333,Mardu (WBR)
+Evolving Wilds,0.7333333333333333,Mardu (WBR)
+Nomad Outpost,0.6666666666666666,Mardu (WBR)
+Sol Ring,0.6666666666666666,Mardu (WBR)
+Arcane Signet,0.5333333333333333,Mardu (WBR)
+Mortify,0.4666666666666667,Mardu (WBR)
+Bojuka Bog,0.4666666666666667,Mardu (WBR)
+Path of Ancestry,0.4666666666666667,Mardu (WBR)
+Smoldering Marsh,0.4666666666666667,Mardu (WBR)
+Dragonskull Summit,0.4666666666666667,Mardu (WBR)
+Battlefield Forge,0.4,Mardu (WBR)
+Crackling Doom,0.3333333333333333,Mardu (WBR)
+Clifftop Retreat,0.3333333333333333,Mardu (WBR)
+Boros Garrison,0.3333333333333333,Mardu (WBR)
+Isolated Chapel,0.3333333333333333,Mardu (WBR)
+Orzhov Basilica,0.3333333333333333,Mardu (WBR)
+Morbid Opportunist,0.3333333333333333,Mardu (WBR)
+Exotic Orchard,0.3333333333333333,Mardu (WBR)
+Orzhov Signet,0.3333333333333333,Mardu (WBR)
+Rakdos Signet,0.3333333333333333,Mardu (WBR)
