@@ -11,7 +11,7 @@ unzip the folder containing the deck files
 rename it to 'AllDeckFiles(Experimental)'
 &nbsp;place it in a 'Data' folder next to but not inside the repository. ex:
 
-Documents/DataMining/cs4412-project/ ← repository
+Documents/DataMining/cs4412-project/ <- repository
 
 Documents/DataMining/Data &lt;- unzipped AllDeckFiles(Experimental)
 
